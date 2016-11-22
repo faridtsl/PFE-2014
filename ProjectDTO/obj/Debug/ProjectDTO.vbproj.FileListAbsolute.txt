@@ -1,0 +1,50 @@
+C:\Users\Ikram\Desktop\ProjectDTO\bin\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\ProjectDTO\bin\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\ProjectDTO\bin\Debug\ProjectDTO.xml
+C:\Users\Ikram\Desktop\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+C:\Users\Ikram\Desktop\ProjectDTO\obj\Debug\ProjectDTO.vbproj.GenerateResource.Cache
+C:\Users\Ikram\Desktop\ProjectDTO\obj\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\ProjectDTO\obj\Debug\ProjectDTO.xml
+C:\Users\Ikram\Desktop\ProjectDTO\obj\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.vbproj.GenerateResource.Cache
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.xml
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.xml
+C:\VB.Net\Projet\ProjectDTO\bin\Debug\ProjectDTO.dll
+C:\VB.Net\Projet\ProjectDTO\bin\Debug\ProjectDTO.pdb
+C:\VB.Net\Projet\ProjectDTO\bin\Debug\ProjectDTO.xml
+C:\VB.Net\Projet\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+C:\VB.Net\Projet\ProjectDTO\obj\Debug\ProjectDTO.vbproj.GenerateResource.Cache
+C:\VB.Net\Projet\ProjectDTO\obj\Debug\ProjectDTO.dll
+C:\VB.Net\Projet\ProjectDTO\obj\Debug\ProjectDTO.xml
+C:\VB.Net\Projet\ProjectDTO\obj\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjectDTO\obj\Debug\ProjectDTO.pdb
+I:\Projet final farid's\ProjectDTO\bin\Debug\ProjectDTO.dll
+I:\Projet final farid's\ProjectDTO\bin\Debug\ProjectDTO.pdb
+I:\Projet final farid's\ProjectDTO\bin\Debug\ProjectDTO.xml
+I:\Projet final farid's\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+I:\Projet final farid's\ProjectDTO\obj\Debug\ProjectDTO.vbproj.GenerateResource.Cache
+I:\Projet final farid's\ProjectDTO\obj\Debug\ProjectDTO.dll
+I:\Projet final farid's\ProjectDTO\obj\Debug\ProjectDTO.xml
+I:\Projet final farid's\ProjectDTO\obj\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\bin\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\bin\Debug\ProjectDTO.pdb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\bin\Debug\ProjectDTO.xml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\obj\Debug\ProjectDTO.Resources.resources
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\obj\Debug\ProjectDTO.vbproj.GenerateResource.Cache
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\obj\Debug\ProjectDTO.dll
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\obj\Debug\ProjectDTO.xml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\ProjectDTO\obj\Debug\ProjectDTO.pdb

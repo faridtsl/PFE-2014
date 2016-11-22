@@ -1,0 +1,121 @@
+﻿
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background: #e0e0e0 url(Img/bg.jpg) repeat-y;
+	font-family: Arabic Transparent, Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #4364A3;
+}
+
+.errors {
+    color : #cc0000;
+    font-weight:bold;
+}
+
+#logo {
+	position: relative;
+	height: 100%;
+	float: right;
+	margin: auto;
+	display: block;
+}
+#titre {
+	position: relative;
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header {
+	position: relative;
+	width: 100%;
+	height: 15%;
+}
+#center {
+	position: relative;
+	height: 70%;
+	width: 100%;
+	text-align :center;
+}
+.LabelMenu {
+	position: relative;
+	Font-Size: 18px;
+	font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#menuBar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: 3%;
+	background: #720909;
+	font: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding-top: 3px;
+	padding-right: 20px;
+	text-align: center;
+	padding-right: 50px;
+}
+.LabelMenu:hover {
+	Font-Size: 18px;
+	font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.contentFont {
+	font-family: Arial,Tahoma,Verdana,Helvetica,sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+}
+.LabelMenuInactif {
+	Font-Size: 18px;
+	font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+	color: #E58080;
+	text-decoration: none;
+}
+.tables {
+	border-collapse: separate;
+	border-spacing: 2em;
+}
+.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#RubRep {
+	 margin-left : auto;
+    margin-right : auto;
+    width:20%
+	/*background-image: url(../img/rubrep.jpg);*/
+}
+.titleRubRep {
+	width: 223px;
+	height: 51px;
+	display: inline-block;
+}
+.contenuRubRep {
+	width: 223px;
+	height: 160px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	direction:rtl;
+	
+}
+.bulleRouge {
+	color: #720909;
+}
+.CentreDiv
+{
+    margin-left : auto;
+    margin-right : auto;
+    width:100%
+}

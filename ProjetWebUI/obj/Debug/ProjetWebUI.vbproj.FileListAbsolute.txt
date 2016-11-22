@@ -1,0 +1,102 @@
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetWebUI.dll
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetWebUI.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetWebUI.xml
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.Resources.resources
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.vbproj.GenerateResource.Cache
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.dll
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.xml
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjectDTO.dll
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetBLL.dll
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetDAL.dll
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjectDTO.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjectDTO.xml
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetBLL.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetBLL.xml
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetDAL.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\ProjetDAL.xml
+C:\VB.Net\Projet\ProjetWebUI\obj\Debug\ProjetWebUI.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Projet\ProjetWebUI\bin\TwainLib.dll
+C:\VB.Net\Projet\ProjetWebUI\bin\TwainLib.pdb
+C:\VB.Net\Projet\ProjetWebUI\bin\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetWebUI.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetWebUI.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetWebUI.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\bin\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\ProjetWebUI.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\ProjetWebUI.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\ProjetWebUI.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetWebUI\obj\Debug\ProjetWebUI.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetWebUI.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetWebUI.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetWebUI.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\bin\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\ProjetWebUI.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\ProjetWebUI.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\ProjetWebUI.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetWebUI\obj\Debug\ProjetWebUI.pdb
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetWebUI.dll
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetWebUI.pdb
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetWebUI.xml
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjectDTO.dll
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetBLL.dll
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetDAL.dll
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjectDTO.pdb
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjectDTO.xml
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetBLL.pdb
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetBLL.xml
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetDAL.pdb
+D:\VB.Net\PFE\ProjetWebUI\bin\ProjetDAL.xml
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.Resources.resources
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\GenerateResource.read.1.tlog
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\GenerateResource.write.1.tlog
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.dll
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.xml
+D:\VB.Net\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.pdb
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetWebUI.dll
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetWebUI.pdb
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetWebUI.xml
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjectDTO.dll
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetBLL.dll
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetDAL.dll
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjectDTO.pdb
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjectDTO.xml
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetBLL.pdb
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetBLL.xml
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetDAL.pdb
+C:\VB.NET\PFE\ProjetWebUI\bin\ProjetDAL.xml
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.vbprojResolveAssemblyReference.cache
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.Resources.resources
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.vbproj.GenerateResource.Cache
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.dll
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.xml
+C:\VB.NET\PFE\ProjetWebUI\obj\Debug\ProjetWebUI.pdb

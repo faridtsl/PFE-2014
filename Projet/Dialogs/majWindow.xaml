@@ -1,0 +1,30 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="majWindow"
+	x:Name="Window"
+	Title="تعديل بيانات الجمعية"
+    Icon="../img/logo.png"
+	Width="640" Height="480"
+	ResizeMode="NoResize">
+
+    <Grid Background="#FFD8CCCC">
+        <TextBox Name="nomTB" TextAlignment="Right" Margin="0,69.571,39.208,0" TextWrapping="Wrap" Height="22.005" VerticalAlignment="Top" HorizontalAlignment="Right" Width="186.023" d:LayoutOverrides="HorizontalAlignment, GridBox"/>
+        <TextBox Name="siteTB" TextAlignment="Right" Margin="0,69.571,372.174,0" TextWrapping="Wrap" Height="22.005" VerticalAlignment="Top" HorizontalAlignment="Right" Width="186.023" d:LayoutOverrides="VerticalAlignment, GridBox"/>
+        <TextBox Name="telTB" TextAlignment="Right" Margin="0,143.036,39.208,0" TextWrapping="Wrap" HorizontalAlignment="Right" Width="186.023" Height="22.005" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, GridBox"/>
+        <TextBox Name="emailTB" TextAlignment="Right" Margin="0,227.187,39.208,0" TextWrapping="Wrap" Height="22.005" VerticalAlignment="Top" HorizontalAlignment="Right" Width="186.023" d:LayoutOverrides="HorizontalAlignment, GridBox"/>
+        <TextBox Name="datCreaTB" TextAlignment="Right" Margin="0,293.315,42.983,0" TextWrapping="Wrap" Height="22.005" VerticalAlignment="Top" HorizontalAlignment="Right" Width="66.047" d:LayoutOverrides="HorizontalAlignment, GridBox"/>
+    	<Label Content=": اسم الجمعية" HorizontalAlignment="Right" Margin="0,34.35,25.208,0" VerticalAlignment="Top" FontSize="14.667" Height="31.221" Width="99.822"/>
+    	<Label Content=": موقع الجمعية" HorizontalAlignment="Left" Margin="188.607,35.362,0,0" VerticalAlignment="Top" FontSize="14.667" Height="34.209" Width="99.822"/>
+    	<Label Content=": هاتف الجمعية" HorizontalAlignment="Right" Margin="0,102.756,25.208,0"  FontSize="14.667" Width="108.822" RenderTransformOrigin="0.273,3.97" Height="31.046" VerticalAlignment="Top"/>
+    	<Label Content=": ايميل الجمعية" HorizontalAlignment="Right" Margin="0,191.13,25.208,0" VerticalAlignment="Top"  FontSize="14.667" Height="29.045" Width="108.822" d:LayoutOverrides="VerticalAlignment"/>
+    	<Label Content="(تاريخ التأسيس (غير اجباري" HorizontalAlignment="Right" Margin="0,261.171,25.208,0" VerticalAlignment="Top"  FontSize="14.667" Height="32.144" Width="183.261"/>
+        <ComboBox Name="regionCB" Margin="0,143,370,0" VerticalAlignment="Top" Height="22.005" HorizontalAlignment="Right" Width="187.553"/>
+        <ComboBox Name="vilCB" Margin="0,0,371,197" HorizontalAlignment="Right" Width="187.553" Height="22.005" VerticalAlignment="Bottom"/>
+    	<Label Content=": الجهة" Margin="228.571,103.522,0,0" VerticalAlignment="Top" FontSize="14.667" Height="30.28" HorizontalAlignment="Left" Width="59.858"/>
+    	<Label Content=": المدينة" Margin="219.703,191.13,0,0" VerticalAlignment="Top" FontSize="14.667" Height="28.269" HorizontalAlignment="Left" Width="68.726"/>
+    	<Button Name="majAssBT" Content="تعديل الجمعية" Margin="268.929,396.428,255.998,0" Height="23.709" VerticalAlignment="Top"/>
+    	<Image Opacity="0" Name="preAddedOK" Height="17.591" Margin="0,343.789,380.599,0" Source="/Projet;component/img/ok.png" Stretch="Fill" VerticalAlignment="Top" RenderTransformOrigin="1.344,0.736" HorizontalAlignment="Right" Width="24.83" d:LayoutOverrides="GridBox"/>
+        <TextBox Name="adrTB" TextAlignment="Right" Margin="0,293.315,372.174,0" TextWrapping="Wrap" Height="22.005" VerticalAlignment="Top" HorizontalAlignment="Right" Width="186.023" d:LayoutOverrides="GridBox"/>
+    	<Label Content=": عنوان الجمعية" Margin="178.041,0,0,158.685"  FontSize="14.667" RenderTransformOrigin="0.273,3.97" Height="32.144" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="110.388"/>
+    	<Button Name="majPre" Content="تعديل الرئيس" Margin="268.929,340.546,255.998,0" Height="23.709" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

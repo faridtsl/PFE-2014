@@ -1,0 +1,18 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="gestionVilles"
+	x:Name="Window"
+	Title="gestionVilles"
+	Width="640" Height="480"
+    ResizeMode="NoResize">
+
+	<Grid Background="#FFD8CCCC">
+        <Button Name="addVilBT" Content="اضف" VerticalAlignment="Bottom" Margin="262,0,287,108.04"/>
+		<ComboBox Name="regionCB" Margin="194,219,204,200"/>
+		<TextBox Name="vilTB" TextAlignment="Right" Height="24" Margin="194,125,207,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="الاسم" Height="28" HorizontalAlignment="Left" Margin="507,120,0,0" Name="Label1" VerticalAlignment="Top" Width="63" />
+        <Label Content="الجهة" Height="28" HorizontalAlignment="Left" Margin="507,213,0,0" Name="Label2" VerticalAlignment="Top" Width="63" />
+    </Grid>
+	
+</Window>

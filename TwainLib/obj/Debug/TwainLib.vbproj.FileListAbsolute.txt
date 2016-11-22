@@ -1,0 +1,76 @@
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.Resources.resources
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.dll
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\TwainLib.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\ResGen.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\ResGen.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\test\Source Code\TwainLib\obj\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\TwainLib.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\ResGen.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\ResGen.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\TwainLib\obj\Debug\TwainLib.pdb
+C:\VB.Net\Final With Scan\TwainLib\bin\Debug\TwainLib.dll
+C:\VB.Net\Final With Scan\TwainLib\bin\Debug\TwainLib.pdb
+C:\VB.Net\Final With Scan\TwainLib\bin\Debug\TwainLib.xml
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.dll
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.xml
+C:\VB.Net\Final With Scan\TwainLib\obj\Debug\TwainLib.pdb
+C:\VB.Net\Projet\TwainLib\bin\Debug\TwainLib.dll
+C:\VB.Net\Projet\TwainLib\bin\Debug\TwainLib.pdb
+C:\VB.Net\Projet\TwainLib\bin\Debug\TwainLib.xml
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.dll
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.xml
+C:\VB.Net\Projet\TwainLib\obj\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\TwainLib.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\ResGen.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\ResGen.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\TwainLib\obj\Debug\TwainLib.pdb
+D:\VB.Net\PFE\TwainLib\bin\Debug\TwainLib.dll
+D:\VB.Net\PFE\TwainLib\bin\Debug\TwainLib.pdb
+D:\VB.Net\PFE\TwainLib\bin\Debug\TwainLib.xml
+D:\VB.Net\PFE\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\PFE\TwainLib\obj\Debug\TwainLib.Resources.resources
+D:\VB.Net\PFE\TwainLib\obj\Debug\ResGen.read.1.tlog
+D:\VB.Net\PFE\TwainLib\obj\Debug\ResGen.write.1.tlog
+D:\VB.Net\PFE\TwainLib\obj\Debug\TwainLib.dll
+D:\VB.Net\PFE\TwainLib\obj\Debug\TwainLib.xml
+D:\VB.Net\PFE\TwainLib\obj\Debug\TwainLib.pdb

@@ -1,0 +1,55 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="corrArch"
+	x:Name="UserControl"
+	d:DesignWidth="850" d:DesignHeight="700">
+
+	<Grid Background="Transparent">
+				<Label Content=": البحث عن المراسلة" HorizontalAlignment="Right" Margin="0,29.34,51.851,0" VerticalAlignment="Top" FontSize="14.667" Height="29.16" Width="146.612" d:LayoutOverrides="HorizontalAlignment"/>	
+            	<TextBox Name="rechCorrTB" TextAlignment="Right" TextWrapping="Wrap" Margin="0,62.5,51.851,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="217.273" Height="24.873" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+            	<Button Name="rechCorrArchBT" Content="بحث" HorizontalAlignment="Right" Height="28.873" Margin="0,289.34,397.19,0" VerticalAlignment="Top" Width="83.5" d:LayoutOverrides="VerticalAlignment"/>
+            	
+				
+				<Expander Name="searchAssExp" Header="حسب الجمعية" Margin="0,29,375,0" Height="233" VerticalAlignment="Top" HorizontalAlignment="Right" Width="437.5" FontSize="14.667">
+            		<Grid Background="Transparent" Height="223">
+            			<Label Content="هاتف/ايميل" HorizontalAlignment="Right" Margin="0,28,20,0" Width="109.829" Height="30.667" VerticalAlignment="Top" FontWeight="Normal"/>
+                		<TextBox TextAlignment="Right" Name="searchAssArchTB" Height="35.357" Margin="69,24,134,0" VerticalAlignment="Top" />
+						<RadioButton Name="parEmailArchRB" Content="الايميل" HorizontalAlignment="Left" Width="68.96" Margin="101,77,0,117" FontWeight="Normal" FontSize="13.333" />
+						<RadioButton Name="parTelArchRB" Content="رقم الهاتف" Margin="202,77,134,117" FontWeight="Normal" FontSize="13.333" />
+            		</Grid>
+            	</Expander>
+				
+				
+            	<DataGrid AutoGenerateColumns="False" Name="archCorrDG" Height="236" Margin="0,334.213,65.69,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="746.31">
+            		<DataGrid.Columns>
+            		    <DataGridTextColumn IsReadOnly="True" Header="الرقم التسلسلي" Binding="{Binding NBO}" />
+					    <DataGridTextColumn IsReadOnly="True" Header="العنوان" Binding="{Binding objet}"  />
+					    <DataGridTextColumn IsReadOnly="True" Header="تاريخ الإرسال" Binding="{Binding datEnv,StringFormat=d}"  />
+					    <DataGridTextColumn IsReadOnly="True" Header="تاريخ التوصل" Binding="{Binding datRec,StringFormat=d}" />
+					    <DataGridTextColumn IsReadOnly="True" Header="المرسل" Binding="{Binding ass.nomAss}" />
+					    <DataGridTextColumn IsReadOnly="True" Header="الحالة" Binding="{Binding etat}" />
+					    <DataGridTextColumn IsReadOnly="True" Header="القرار" Binding="{Binding dec.type.libTyp}" />
+                        <DataGridHyperlinkColumn   IsReadOnly="True" Header="الصفحة 1" Binding="{Binding cheminPDF}">
+                            <DataGridHyperlinkColumn.ElementStyle>
+                                <Style>
+                                    <EventSetter Event="Hyperlink.Click" Handler="OnHyperlinkClick" />
+                                </Style>
+                            </DataGridHyperlinkColumn.ElementStyle>
+                        </DataGridHyperlinkColumn>
+                        <DataGridHyperlinkColumn   IsReadOnly="True" Header="الصفحة 2" Binding="{Binding imgSupp}">
+                            <DataGridHyperlinkColumn.ElementStyle>
+                                <Style>
+                                    <EventSetter Event="Hyperlink.Click" Handler="OnHyperlinkClick" />
+                                </Style>
+                            </DataGridHyperlinkColumn.ElementStyle>
+                        </DataGridHyperlinkColumn>
+                    </DataGrid.Columns> 
+				</DataGrid>
+				
+				
+				</Grid>
+</UserControl>

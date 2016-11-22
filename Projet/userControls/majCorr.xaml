@@ -1,0 +1,54 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="majCorr"
+	x:Name="UserControl"
+	d:DesignWidth="850" d:DesignHeight="700">
+	<Grid Background="Transparent">
+               	<Label Content=": البحث عن المراسلة" HorizontalAlignment="Right" Margin="0,2,105,0" VerticalAlignment="Top" FontSize="14.667" Height="28.83" Width="139.546" d:LayoutOverrides="HorizontalAlignment"/>	
+            	<TextBox Name="rechCorrByIdTB" TextAlignment="Right" TextWrapping="Wrap" Margin="0,47,105,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="229.273" Height="24.873" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+            	<Button Name="rechCorrBT" Content="بحث" HorizontalAlignment="Right" Height="24.873" Margin="0,47,383,0" VerticalAlignment="Top" Width="68.5"/>
+            	<Button Name="choixBT" Content="اختيار" HorizontalAlignment="Right" Height="27.873" Margin="0,382,355,0" VerticalAlignment="Top" Width="68.5"/>
+            	<ComboBox Name="typCB" HorizontalAlignment="Right" Height="27" Margin="0,455,105,0" VerticalAlignment="Top" Width="161" ></ComboBox>
+            	<DatePicker Name="datDecDP" Height="27" Margin="0,528,355,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="171"/>
+            	<TextBox MaxLength="49" Name="infoSuppTB" TextAlignment="Right" TextWrapping="Wrap" Margin="0,528,101,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="193.773" Height="27" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+            	<Label Content="القرار المتخذ" HorizontalAlignment="Right" Margin="0,422,105,0" VerticalAlignment="Top" FontSize="14.667" Height="32.83" Width="87" d:LayoutOverrides="HorizontalAlignment"/>
+            	<Label Content="تحديد" HorizontalAlignment="Right" Margin="0,495,101,0" VerticalAlignment="Top" FontSize="14.667" Height="28.83" Width="48.612" d:LayoutOverrides="HorizontalAlignment"/>
+            	<Label Content="تاريخ القرار" HorizontalAlignment="Right" Margin="0,491,352,0" VerticalAlignment="Top" FontSize="14.667" Height="32.83" Width="82.885" RenderTransformOrigin="0.453,0.513"/>
+            	<Button Name="majCorrBT" Content="حفظ القرار" HorizontalAlignment="Right" Height="29" Margin="0,596,355,0" VerticalAlignment="Top" Width="115.5"/>
+        <DataGrid AutoGenerateColumns="False" Name="corrDG" Margin="0,91,78,0" Height="284.5" VerticalAlignment="Top" HorizontalAlignment="Right" Width="699">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="الرقم التسلسلي" Binding="{Binding NBO}" />
+                <DataGridTextColumn IsReadOnly="True" Header="العنوان" Binding="{Binding objet}"  />
+                <DataGridTextColumn IsReadOnly="True" Header="تاريخ الإرسال" Binding="{Binding datEnv,StringFormat=d}"  />
+                <DataGridTextColumn IsReadOnly="True" Header="تاريخ التوصل" Binding="{Binding datRec,StringFormat=d}" />
+                <DataGridTextColumn IsReadOnly="True" Header="المرسل" Binding="{Binding ass.nomAss}" />
+                <DataGridTextColumn IsReadOnly="True" Header="الحالة" Binding="{Binding etat}" />
+                <DataGridTextColumn IsReadOnly="True" Header="القرار" Binding="{Binding dec.type.libTyp}" />
+                <DataGridHyperlinkColumn   IsReadOnly="True" Header="الصفحة 1" Binding="{Binding cheminPDF}">
+                    <DataGridHyperlinkColumn.ElementStyle>
+                        <Style>
+                            <EventSetter Event="Hyperlink.Click" Handler="OnHyperlinkClick" />
+                        </Style>
+                    </DataGridHyperlinkColumn.ElementStyle>
+                </DataGridHyperlinkColumn>
+                <DataGridHyperlinkColumn   IsReadOnly="True" Header="الصفحة 2" Binding="{Binding imgSupp}">
+                    <DataGridHyperlinkColumn.ElementStyle>
+                        <Style>
+                            <EventSetter Event="Hyperlink.Click" Handler="OnHyperlinkClick" />
+                        </Style>
+                    </DataGridHyperlinkColumn.ElementStyle>
+                </DataGridHyperlinkColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox Name="serviceCB" Height="27" Margin="0,455,355,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="173.727" />
+        <Label Content="الإحالة على مصلحة " HorizontalAlignment="Right" Margin="0,422,355,0" VerticalAlignment="Top" FontSize="14.667" Height="32.83" Width="131"/>
+        <Label Content="اضافة" HorizontalAlignment="Right" Margin="0,481,543.727,0" VerticalAlignment="Top" FontSize="14.667" Height="28.83" Width="48"/>
+        <TextBox MaxLength="149" AcceptsReturn="True" Name="commentaireTB" TextAlignment="Right" TextWrapping="Wrap" Margin="0,455,597.612,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="244.388" Height="136" VerticalAlignment="Top"/>
+        <Label Content="في حدود 150 حرف" HorizontalAlignment="Right" Margin="0,598.96,597.612,0" VerticalAlignment="Top" FontSize="10.667" Height="30.877" Width="88.612"/>
+        <Button Content="الغاء الاختيار" Height="27.873" HorizontalAlignment="Right" Margin="0,382,449,0" Name="Button1" VerticalAlignment="Top" Width="68.5" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjetDAL
+</name>
+</assembly>
+<members>
+<member name="M:ProjetDAL.CorrespondanceDAL.RechercheMailByAss(ProjectDTO.Association)">
+ EMAIL
+
+</member><member name="M:ProjetDAL.CorrespondanceDAL.RecherchePosByAss(ProjectDTO.Association)">
+ POSTALE
+
+</member><member name="M:ProjetDAL.AssociationDAL.AjouterAss(ProjectDTO.Association)">
+Insertion
+
+</member><member name="M:ProjetDAL.AssociationDAL.ModifierAss(ProjectDTO.Association)">
+Mise à jour
+
+</member><member name="M:ProjetDAL.AssociationDAL.GetAllAss">
+Recherche
+
+</member><member name="M:ProjetDAL.AssociationDAL.SupprimerAss(ProjectDTO.Association)">
+Suppression
+
+</member><member name="P:ProjetDAL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ProjetDAL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ProjetDAL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

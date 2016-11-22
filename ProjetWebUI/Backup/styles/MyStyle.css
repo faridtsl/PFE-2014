@@ -1,0 +1,54 @@
+﻿.errors
+{
+    color : #FF9494;
+}
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background: #e0e0e0 url(Img/bg.jpg) repeat-y;
+	font-family: Arabic Transparent, Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #4364A3;
+}
+
+#logo {
+	position: relative;
+	height: 100%;
+	float: right;
+}
+.imgHeader {
+	position: relative;
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#up {
+	width: 100%;
+	height: 15%;
+}
+#right {
+	width: 20%;
+	height: 75%;
+	float: right;
+}
+#below {
+	width: 80%;
+	height: 75%;
+}
+#externLink {
+	position: relative;
+	text-align: right;
+	left: 70%;
+	top: 90%;
+}
+.floatRight {
+	float: right;
+}
+.tables {
+	border-collapse: separate;
+	border-spacing: 2em;
+}
+
+

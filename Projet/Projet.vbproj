@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <ProjectGuid>{D4F77146-8603-4B7E-BE92-9935C078FF42}</ProjectGuid>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projet</RootNamespace>
+    <AssemblyName>Projet</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <MyType>Custom</MyType>
+    <ApplicationIcon>Application.ico</ApplicationIcon>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <Utf8Output>true</Utf8Output>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>true</IncrementalBuild>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Projet.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>false</IncrementalBuild>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Projet.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Admin\addUser.xaml.vb">
+      <DependentUpon>addUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\adminWindow.xaml.vb">
+      <DependentUpon>adminWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\GestionUsers.xaml.vb">
+      <DependentUpon>GestionUsers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\gestionVilles.xaml.vb">
+      <DependentUpon>gestionVilles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\majUser.xaml.vb">
+      <DependentUpon>majUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\addAssWindow.xaml.vb">
+      <DependentUpon>addAssWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\addPresident.xaml.vb">
+      <DependentUpon>addPresident.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\erreurIncomplet.xaml.vb">
+      <DependentUpon>erreurIncomplet.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\erreurRB.xaml.vb">
+      <DependentUpon>erreurRB.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\majPres.xaml.vb">
+      <DependentUpon>majPres.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\majWindow.xaml.vb">
+      <DependentUpon>majWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globale.vb" />
+    <Compile Include="Notifications.xaml.vb">
+      <DependentUpon>Notifications.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\addAss.xaml.vb">
+      <DependentUpon>addAss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\addCorr.xaml.vb">
+      <DependentUpon>addCorr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\corrArch.xaml.vb">
+      <DependentUpon>corrArch.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\majCorr.xaml.vb">
+      <DependentUpon>majCorr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\preAddCor.xaml.vb">
+      <DependentUpon>preAddCor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\searchAss.xaml.vb">
+      <DependentUpon>searchAss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\searchMajAss.xaml.vb">
+      <DependentUpon>searchMajAss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="welcomeWindow.xaml.vb">
+      <DependentUpon>welcomeWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Admin\addUser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Admin\adminWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Admin\GestionUsers.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Admin\gestionVilles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Admin\majUser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\addAssWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\addPresident.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\erreurIncomplet.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\erreurRB.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\majPres.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialogs\majWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.vb">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.vb">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Notifications.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\addAss.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\addCorr.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\corrArch.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\majCorr.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\preAddCor.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\searchAss.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="userControls\searchMajAss.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="welcomeWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows" />
+    <Import Include="System.Windows.Controls" />
+    <Import Include="System.Windows.Data" />
+    <Import Include="System.Windows.Documents" />
+    <Import Include="System.Windows.Input" />
+    <Import Include="System.Windows.Shapes" />
+    <Import Include="System.Windows.Media" />
+    <Import Include="System.Windows.Media.Imaging" />
+    <Import Include="System.Windows.Navigation" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="Application.ico">
+      <Visible>false</Visible>
+    </None>
+    <AppDesigner Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Buttons\addAssButon.png" />
+    <Resource Include="Buttons\AddCorrButton.png" />
+    <Resource Include="Buttons\archCorrButton.png" />
+    <Resource Include="Buttons\majAssButton.png" />
+    <Resource Include="Buttons\majCorrButton.png" />
+    <Resource Include="Buttons\searchAssButton.png" />
+    <Resource Include="img\logo.png" />
+    <Resource Include="img\nomMin.PNG" />
+    <Resource Include="img\notif.png" />
+    <Resource Include="img\ok.png" />
+    <Resource Include="img\titre.png" />
+    <Resource Include="img\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectDTO\ProjetDTO.vbproj">
+      <Project>{EBFF5F23-622D-44E5-8D5F-0BF556D33342}</Project>
+      <Name>ProjetDTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjetBLL\ProjetBLL.vbproj">
+      <Project>{A37E30E2-0EF5-4F7A-A03B-91C1D27C580E}</Project>
+      <Name>ProjetBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TwainLib\TwainLib.vbproj">
+      <Project>{04EA77A3-950C-4F55-86B7-2457E93EB2E9}</Project>
+      <Name>TwainLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath32)\Microsoft.VisualBasic.targets" />
+</Project>

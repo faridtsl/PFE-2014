@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projet
+</name>
+</assembly>
+<members>
+<member name="M:Projet.addPresident.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.addPresident">
+	<summary>
+addPresident
+</summary>
+</member><member name="M:Projet.addUser.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.addUser">
+	<summary>
+addUser
+</summary>
+</member><member name="M:Projet.gestionVilles.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.gestionVilles">
+	<summary>
+gestionVilles
+</summary>
+</member><member name="M:Projet.Notifications.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.Notifications">
+	<summary>
+Notifications
+</summary>
+</member><member name="M:Projet.erreurAddAss.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.erreurAddAss">
+	<summary>
+erreurAddAss
+</summary>
+</member><member name="M:Projet.addAssWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.addAssWindow">
+	<summary>
+addAssWindow
+</summary>
+</member><member name="M:Projet.corrArch.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.corrArch">
+	<summary>
+corrArch
+</summary>
+</member><member name="M:Projet.searchMajAss.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.searchMajAss">
+	<summary>
+searchMajAss
+</summary>
+</member><member name="M:Projet.welcomeWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.welcomeWindow">
+	<summary>
+welcomeWindow
+</summary>
+</member><member name="M:Projet.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Projet.App.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:Projet.App">
+	<summary>
+App
+</summary>
+</member><member name="M:Projet.GestionUsers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.GestionUsers">
+	<summary>
+GestionUsers
+</summary>
+</member><member name="M:Projet.searchAss.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.searchAss">
+	<summary>
+searchAss
+</summary>
+</member><member name="M:Projet.adminWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.adminWindow">
+	<summary>
+adminWindow
+</summary>
+</member><member name="M:Projet.addAss.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.addAss">
+	<summary>
+addAss
+</summary>
+</member><member name="M:Projet.majCorr.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.majCorr">
+	<summary>
+majCorr
+</summary>
+</member><member name="M:Projet.addCorr.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.addCorr">
+	<summary>
+addCorr
+</summary>
+</member><member name="M:Projet.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:Projet.preAddCor.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.preAddCor">
+	<summary>
+preAddCor
+</summary>
+</member><member name="M:Projet.majPres.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.majPres">
+	<summary>
+majPres
+</summary>
+</member><member name="M:Projet.majWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.majWindow">
+	<summary>
+majWindow
+</summary>
+</member><member name="M:Projet.majUser.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.majUser">
+	<summary>
+majUser
+</summary>
+</member><member name="M:Projet.erreurAddCorrRB.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Projet.erreurAddCorrRB">
+	<summary>
+erreurAddCorrRB
+</summary>
+</member>
+</members>
+</doc>

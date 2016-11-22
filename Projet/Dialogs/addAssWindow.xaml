@@ -1,0 +1,12 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="addAssWindow"
+	x:Name="Window"
+	Title="إستمارة اضافة الجمعية"
+	Icon="../img/logo.png"
+    ResizeMode="NoResize"
+	Background="#FFD8CCCC"
+    Width="850" Height="700">
+	<Frame Source="../userControls/addAss.xaml"/>
+</Window>

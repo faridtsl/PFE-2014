@@ -1,0 +1,16 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="adminWindow"
+	x:Name="Window"
+	Title="adminWindow"
+	Width="640" Height="480"
+    ResizeMode="NoResize">
+
+	<Grid Background="#FFD8CCCC">
+		<Button Content="ادارة الحسابات" Height="29" Margin="179,142,185,0" VerticalAlignment="Top" Name="Button1" />
+		<Button Content="ادارة المدن" Height="29" Margin="179,0,185,157" VerticalAlignment="Bottom" Name="Button2" />
+		
+	</Grid>
+	
+</Window>

@@ -1,0 +1,656 @@
+C:\VB.NET\Projet\Projet\obj\Debug\Projet.exe
+C:\VB.NET\Projet\Projet\obj\Debug\Projet.xml
+C:\VB.NET\Projet\Projet\obj\Debug\Projet.pdb
+C:\VB.NET\Projet\Projet\bin\Debug\Projet.exe
+C:\VB.NET\Projet\Projet\bin\Debug\Projet.pdb
+C:\VB.NET\Projet\Projet\bin\Debug\Projet.xml
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\VB.NET\Projet\Projet\obj\Debug\MainWindow.baml
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\addAss.baml
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\addCorr.baml
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\corrArch.baml
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\majCorr.baml
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\searchAss.baml
+C:\VB.NET\Projet\Projet\obj\Debug\welcomeWindow.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\MainWindow.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\addAss.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\welcomeWindow.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\App.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\VB.NET\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\MainWindow.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\addAss.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\addCorr.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\corrArch.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\majCorr.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\searchAss.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\welcomeWindow.baml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\MainWindow.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\addAss.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\welcomeWindow.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\App.g.vb
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\Farid\Documents\Expression\Blend 4\Projects\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Projet.exe
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Projet.xml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\Projet\bin\Debug\Projet.exe
+C:\Users\Ikram\Desktop\Projet\bin\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\Projet\bin\Debug\Projet.xml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\MainWindow.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\addAss.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\addCorr.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\corrArch.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\majCorr.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\searchAss.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\welcomeWindow.baml
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\MainWindow.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\addAss.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\welcomeWindow.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\App.g.vb
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Ikram\Desktop\Projet\obj\Debug\Projet.g.resources
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Projet.exe
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Projet.xml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\Projet final\Projet\bin\Debug\Projet.exe
+C:\Users\Ikram\Desktop\Projet final\Projet\bin\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\Projet final\Projet\bin\Debug\Projet.xml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\MainWindow.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\addAss.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\addCorr.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\corrArch.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\majCorr.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\searchAss.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\welcomeWindow.baml
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\MainWindow.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\addAss.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\welcomeWindow.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\App.g.vb
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Ikram\Desktop\Projet final\Projet\obj\Debug\Projet.g.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Projet.pdb
+C:\VB.Net\Projet\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\VB.Net\Projet\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\VB.Net\Projet\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\VB.Net\Projet\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final farid's\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final farid's\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final farid's\Projet\obj\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\bin\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\bin\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\bin\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\addAssWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\addPresident.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\erreurRB.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\majWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\MainWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\addAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\addCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\corrArch.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\majCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\searchAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\searchMajAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\welcomeWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\addPresident.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Dialogs\majWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\MainWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\addAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\addCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\corrArch.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\majCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\searchAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\welcomeWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\App.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Projet.g.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final m\Projet\obj\Debug\Projet.pdb
+C:\Users\Farid\Desktop\Projet Final\Projet\obj\Debug\Projet.exe
+C:\Users\Farid\Desktop\Projet Final\Projet\obj\Debug\Projet.xml
+C:\Users\Farid\Desktop\Projet Final\Projet\obj\Debug\Projet.pdb
+I:\Projet final farid's\Projet\obj\Debug\Projet.exe
+I:\Projet final farid's\Projet\obj\Debug\Projet.xml
+I:\Projet final farid's\Projet\obj\Debug\Projet.pdb
+I:\Projet final farid's\Projet\bin\Debug\Projet.exe
+I:\Projet final farid's\Projet\bin\Debug\Projet.pdb
+I:\Projet final farid's\Projet\bin\Debug\Projet.xml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\addAssWindow.baml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\addPresident.baml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\erreurRB.baml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\majWindow.baml
+I:\Projet final farid's\Projet\obj\Debug\MainWindow.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\addAss.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\addCorr.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\corrArch.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\majCorr.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\searchAss.baml
+I:\Projet final farid's\Projet\obj\Debug\userControls\searchMajAss.baml
+I:\Projet final farid's\Projet\obj\Debug\welcomeWindow.baml
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\addPresident.g.vb
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+I:\Projet final farid's\Projet\obj\Debug\Dialogs\majWindow.g.vb
+I:\Projet final farid's\Projet\obj\Debug\MainWindow.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\addAss.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\addCorr.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\corrArch.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\majCorr.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\searchAss.g.vb
+I:\Projet final farid's\Projet\obj\Debug\userControls\searchMajAss.g.vb
+I:\Projet final farid's\Projet\obj\Debug\welcomeWindow.g.vb
+I:\Projet final farid's\Projet\obj\Debug\App.g.vb
+I:\Projet final farid's\Projet\obj\Debug\Projet_MarkupCompile.cache
+I:\Projet final farid's\Projet\obj\Debug\Projet.g.resources
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Projet.exe
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Projet.xml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\bin\Debug\Projet.exe
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\bin\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\bin\Debug\Projet.xml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\MainWindow.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\addAss.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\addCorr.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\corrArch.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\majCorr.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\searchAss.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\welcomeWindow.baml
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\MainWindow.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\addAss.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\welcomeWindow.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\App.g.vb
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Ikram\Desktop\last desktop t5rbi9\Projet final\Projet\obj\Debug\Projet.g.resources
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Projet.exe
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Projet.xml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\bin\Debug\Projet.exe
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\bin\Debug\Projet.pdb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\bin\Debug\Projet.xml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\MainWindow.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\addAss.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\addCorr.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\corrArch.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\majCorr.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\searchAss.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\welcomeWindow.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\MainWindow.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\addAss.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\welcomeWindow.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\App.g.vb
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Projet.g.resources
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Notifications.baml
+C:\Users\Ikram\Desktop\mabqach tkhrbiq\Projet final\Projet\obj\Debug\Notifications.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\bin\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\bin\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\bin\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\addPresident.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurRB.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\majWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\MainWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Notifications.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\addAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\addCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\corrArch.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\majCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\searchAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\searchMajAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\welcomeWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\addPresident.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Dialogs\majWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\MainWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Notifications.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\addAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\addCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\corrArch.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\majCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\searchAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\welcomeWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\App.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final\Projet\obj\Debug\Projet.g.resources
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Projet.exe
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Projet.xml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Projet.pdb
+C:\VB.Net\Final With Scan\Projet\bin\Debug\Projet.exe
+C:\VB.Net\Final With Scan\Projet\bin\Debug\Projet.pdb
+C:\VB.Net\Final With Scan\Projet\bin\Debug\Projet.xml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\MainWindow.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Notifications.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\addAss.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\addCorr.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\corrArch.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\majCorr.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\searchAss.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\welcomeWindow.baml
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\MainWindow.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Notifications.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\addAss.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\welcomeWindow.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\App.g.vb
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\VB.Net\Final With Scan\Projet\obj\Debug\Projet.g.resources
+C:\VB.Net\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Projet\Projet\obj\Debug\Notifications.baml
+C:\VB.Net\Projet\Projet\obj\Debug\Notifications.g.vb
+C:\VB.Net\Projet\Projet\bin\Debug\ProjectDTO.dll
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetBLL.dll
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetDAL.dll
+C:\VB.Net\Projet\Projet\bin\Debug\TwainLib.dll
+C:\VB.Net\Projet\Projet\bin\Debug\ProjectDTO.pdb
+C:\VB.Net\Projet\Projet\bin\Debug\ProjectDTO.xml
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetBLL.pdb
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetBLL.xml
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetDAL.pdb
+C:\VB.Net\Projet\Projet\bin\Debug\ProjetDAL.xml
+C:\VB.Net\Projet\Projet\bin\Debug\TwainLib.pdb
+C:\VB.Net\Projet\Projet\bin\Debug\TwainLib.xml
+C:\VB.Net\Projet\Projet\obj\Debug\userControls\preAddCor.baml
+C:\VB.Net\Projet\Projet\obj\Debug\userControls\preAddCor.g.vb
+C:\VB.Net\Projet\Projet\obj\Debug\Dialogs\majPres.baml
+C:\VB.Net\Projet\Projet\obj\Debug\Dialogs\majPres.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\addAssWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\addPresident.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\erreurRB.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\majPres.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\majWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\MainWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Notifications.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\addAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\addCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\corrArch.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\majCorr.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\preAddCor.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\searchAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\searchMajAss.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\welcomeWindow.baml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\addPresident.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\majPres.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Dialogs\majWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\MainWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Notifications.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\addAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\addCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\corrArch.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\majCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\preAddCor.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\searchAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\welcomeWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\App.g.vb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Projet.g.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\Projet\obj\Debug\Projet.pdb
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\addUser.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\adminWindow.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\GestionUsers.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\gestionVilles.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\majUser.baml
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\addUser.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\adminWindow.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\GestionUsers.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\gestionVilles.g.vb
+C:\VB.NET\Projet\Projet\obj\Debug\Admin\majUser.g.vb
+C:\VB.Net\Projet\Projet\obj\Debug\Projet.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\Projet.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\addUser.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\adminWindow.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\GestionUsers.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\gestionVilles.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\majUser.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\addAssWindow.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\addPresident.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\erreurRB.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\majPres.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\majWindow.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\MainWindow.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Notifications.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\addAss.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\addCorr.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\corrArch.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\majCorr.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\preAddCor.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\searchAss.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\searchMajAss.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\welcomeWindow.baml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\addUser.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\adminWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\GestionUsers.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\gestionVilles.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Admin\majUser.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\addPresident.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\majPres.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Dialogs\majWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\MainWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Notifications.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\addAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\addCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\corrArch.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\majCorr.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\preAddCor.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\searchAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\welcomeWindow.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\App.g.vb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\Projet\obj\Debug\Projet.g.resources
+D:\Documents and Settings\Administrator\Desktop\PFE\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE\Projet\obj\Debug\Projet.exe
+D:\Documents and Settings\Administrator\Desktop\PFE\Projet\obj\Debug\Projet.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\Projet\obj\Debug\Projet.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\Projet.exe
+D:\VB.Net\PFE\Projet\bin\Debug\Projet.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\Projet.xml
+D:\VB.Net\PFE\Projet\bin\Debug\ProjectDTO.dll
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetBLL.dll
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetDAL.dll
+D:\VB.Net\PFE\Projet\bin\Debug\ProjectDTO.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\ProjectDTO.xml
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetBLL.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetBLL.xml
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetDAL.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\ProjetDAL.xml
+D:\VB.Net\PFE\Projet\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\PFE\Projet\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\VB.Net\PFE\Projet\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.vbproj.ResolveComReference.cache
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\addUser.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\adminWindow.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\GestionUsers.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\gestionVilles.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\majUser.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\addAssWindow.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\addPresident.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\erreurRB.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\majPres.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\majWindow.baml
+D:\VB.Net\PFE\Projet\obj\Debug\MainWindow.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Notifications.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\addAss.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\addCorr.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\corrArch.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\majCorr.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\preAddCor.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\searchAss.baml
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\searchMajAss.baml
+D:\VB.Net\PFE\Projet\obj\Debug\welcomeWindow.baml
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\addUser.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\adminWindow.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\GestionUsers.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\gestionVilles.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Admin\majUser.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\addPresident.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\majPres.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Dialogs\majWindow.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\MainWindow.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Notifications.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\addAss.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\addCorr.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\corrArch.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\majCorr.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\preAddCor.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\searchAss.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\userControls\searchMajAss.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\welcomeWindow.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\App.g.vb
+D:\VB.Net\PFE\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.g.resources
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.exe
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.xml
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.pdb
+D:\VB.Net\PFE\Projet\obj\Debug\Projet.Form1.resources
+D:\VB.Net\PFE\Projet\obj\Debug\GenerateResource.read.1.tlog
+D:\VB.Net\PFE\Projet\obj\Debug\GenerateResource.write.1.tlog
+D:\VB.Net\PFE\Projet\bin\Debug\TwainLib.dll
+D:\VB.Net\PFE\Projet\bin\Debug\TwainLib.pdb
+D:\VB.Net\PFE\Projet\bin\Debug\TwainLib.xml
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.vbproj.ResolveComReference.cache
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.exe
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.xml
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.pdb
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\addUser.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\adminWindow.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\GestionUsers.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\gestionVilles.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\majUser.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\addAssWindow.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\addPresident.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\erreurIncomplet.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\erreurRB.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\majPres.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\majWindow.baml
+C:\VB.NET\PFE\Projet\obj\Debug\MainWindow.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Notifications.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\addAss.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\addCorr.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\corrArch.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\majCorr.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\preAddCor.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\searchAss.baml
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\searchMajAss.baml
+C:\VB.NET\PFE\Projet\obj\Debug\welcomeWindow.baml
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\addUser.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\adminWindow.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\GestionUsers.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\gestionVilles.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Admin\majUser.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\addAssWindow.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\addPresident.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\erreurIncomplet.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\erreurRB.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\majPres.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Dialogs\majWindow.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\MainWindow.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Notifications.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\addAss.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\addCorr.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\corrArch.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\majCorr.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\preAddCor.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\searchAss.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\userControls\searchMajAss.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\welcomeWindow.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\App.g.vb
+C:\VB.NET\PFE\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.g.resources
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.Form1.resources
+C:\VB.NET\PFE\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+C:\VB.NET\PFE\Projet\bin\Debug\Projet.exe
+C:\VB.NET\PFE\Projet\bin\Debug\Projet.pdb
+C:\VB.NET\PFE\Projet\bin\Debug\Projet.xml
+C:\VB.NET\PFE\Projet\bin\Debug\ProjectDTO.dll
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetBLL.dll
+C:\VB.NET\PFE\Projet\bin\Debug\TwainLib.dll
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetDAL.dll
+C:\VB.NET\PFE\Projet\bin\Debug\ProjectDTO.pdb
+C:\VB.NET\PFE\Projet\bin\Debug\ProjectDTO.xml
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetBLL.pdb
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetBLL.xml
+C:\VB.NET\PFE\Projet\bin\Debug\TwainLib.pdb
+C:\VB.NET\PFE\Projet\bin\Debug\TwainLib.xml
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetDAL.pdb
+C:\VB.NET\PFE\Projet\bin\Debug\ProjetDAL.xml

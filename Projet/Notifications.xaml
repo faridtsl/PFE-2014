@@ -1,0 +1,27 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="Notifications"
+	x:Name="Window"
+	Title="Notifications"
+	Width="640" Height="480"
+	Icon="img/logo.png"
+	ResizeMode="NoResize">
+	<Grid  Background="#FFD8CCCC">
+		<DataGrid Name="notDG" AutoGenerateColumns="False" Margin="37,77,36,116">
+			
+			<DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="معلومات" Binding="{Binding info}" />
+                <DataGridTextColumn IsReadOnly="True" Header="المراسلة" Binding="{Binding cor.objet}" />
+                <DataGridTextColumn IsReadOnly="True" Header="التاريخ" Binding="{Binding datNot,StringFormat=d}" />
+                <DataGridTextColumn IsReadOnly="True" Header="الحالة" Binding="{Binding etat}" />
+            </DataGrid.Columns>
+			
+		</DataGrid>
+		
+		
+		
+		<Button  Name="goBT" Content="اذهب" Height="25" Margin="280,0,259,51" VerticalAlignment="Bottom"/>
+		
+	</Grid>
+</Window>

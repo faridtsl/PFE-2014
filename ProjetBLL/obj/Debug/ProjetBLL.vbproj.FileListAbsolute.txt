@@ -1,0 +1,154 @@
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\obj\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final\ProjetBLL\bin\Debug\TwainLib.xml
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetBLL.dll
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetBLL.pdb
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetBLL.xml
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjectDTO.dll
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetDAL.dll
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\TwainLib.dll
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjectDTO.pdb
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjectDTO.xml
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetDAL.pdb
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\ProjetDAL.xml
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\TwainLib.pdb
+C:\VB.Net\Final With Scan\ProjetBLL\bin\Debug\TwainLib.xml
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.vbproj.GenerateResource.Cache
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.dll
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.xml
+C:\VB.Net\Final With Scan\ProjetBLL\obj\Debug\ProjetBLL.pdb
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.vbprojResolveAssemblyReference.cache
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.vbproj.GenerateResource.Cache
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.dll
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.xml
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.pdb
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetBLL.dll
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetBLL.pdb
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetBLL.xml
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjectDTO.dll
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetDAL.dll
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\TwainLib.dll
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjectDTO.pdb
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjectDTO.xml
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetDAL.pdb
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\ProjetDAL.xml
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\TwainLib.pdb
+C:\VB.Net\Projet\ProjetBLL\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\Projet final + WEB\ProjetBLL\obj\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Documents and Settings\Administrator\Desktop\PFE FINAL\ProjetBLL\obj\Debug\ProjetBLL.vbproj.ResolveComReference.cache
+C:\VB.Net\Projet\ProjetBLL\obj\Debug\ProjetBLL.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetBLL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjectDTO.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetDAL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\TwainLib.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjectDTO.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjectDTO.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetDAL.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\ProjetDAL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\TwainLib.pdb
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\bin\Debug\TwainLib.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ProjetBLL.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ProjetBLL.dll
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ProjetBLL.xml
+D:\Documents and Settings\Administrator\Desktop\PFE\ProjetBLL\obj\Debug\ProjetBLL.pdb
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetBLL.dll
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetBLL.pdb
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetBLL.xml
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjectDTO.dll
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetDAL.dll
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjectDTO.pdb
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjectDTO.xml
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetDAL.pdb
+D:\VB.Net\PFE\ProjetBLL\bin\Debug\ProjetDAL.xml
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ProjetBLL.vbproj.ResolveComReference.cache
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\GenerateResource.read.1.tlog
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\GenerateResource.write.1.tlog
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ProjetBLL.dll
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ProjetBLL.xml
+D:\VB.Net\PFE\ProjetBLL\obj\Debug\ProjetBLL.pdb
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetBLL.dll
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetBLL.pdb
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetBLL.xml
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjectDTO.dll
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetDAL.dll
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjectDTO.pdb
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjectDTO.xml
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetDAL.pdb
+C:\VB.NET\PFE\ProjetBLL\bin\Debug\ProjetDAL.xml
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.vbprojResolveAssemblyReference.cache
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.vbproj.ResolveComReference.cache
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.Resources.resources
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.vbproj.GenerateResource.Cache
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.dll
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.xml
+C:\VB.NET\PFE\ProjetBLL\obj\Debug\ProjetBLL.pdb
